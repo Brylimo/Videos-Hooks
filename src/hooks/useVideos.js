@@ -20,4 +20,4 @@ const useVideos = (defaultSearchTerm) => {
     return [ videos, search ];
 };
 
-export default useVideos;
+export default useVideos; 
